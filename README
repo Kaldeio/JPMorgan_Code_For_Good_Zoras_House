@@ -1,0 +1,8 @@
+Tomasz Frelek, Grace Jiang, Khushi Malasani, Dylan Scott, Jacob Mathew
+
+This is an extension of the Zora's House website which is a nonprofit aimed at bringing together and empowering 
+women of color. Zora's House was having issues with their current email system. They wanted additional functionality 
+that allowed their users to be able to make separate chat discussions for people with similar interests and to wanted
+to move away from their current system which sent everyone messages. Finally, Zora's House wanted an interactive web 
+application with casual language to appear more warm and welcoming to everyone. To implement their solution to the
+best of our abilities, we used an H2 Database for the backend along with React for our front end. 
